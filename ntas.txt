@@ -1,0 +1,10 @@
+__DP__ (era una mentira)
+
+_Coin problem
+Dividis por mas grande y restas (MAL)
+
+__builtin_popcount(x) cuenta la cantidad de 1 en un ll
+
+dijkstra con prioriy queue O((n+m)log(m))
+
+santo del 90
